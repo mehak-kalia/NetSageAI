@@ -10,7 +10,7 @@ NetSageAI is a Generative AI-powered assistant for network engineers. It diagnos
 
 ---
 
-<pre lang="md"> ## 🖼️ Screenshot Here’s a preview of the **NetSageAI** web app: ![NetSageAI Screenshot](assets/ChatGPT Image Jun 21, 2025, 05_34_00 PM.png) </pre>
+<pre lang="md"> ## 🖼️ Screenshot Here’s a preview of the **NetSageAI** web app: ![NetSageAI Screenshot](assets/screenshot.png.png) </pre>
 
 ## ✨ Features
 
