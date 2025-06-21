@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 NetSageAI
 
 NetSageAI is a Generative AI-powered assistant for network engineers. It diagnoses network issues from router logs and generates vendor-specific CLI configurations using open-source LLMs like `llama3` via [Ollama](https://ollama.com).
