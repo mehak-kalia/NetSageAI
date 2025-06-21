@@ -1,0 +1,3 @@
+%OSPF-5-ADJCHG: Process 1, Nbr 10.0.0.2 on FastEthernet0/1 from FULL to DOWN, Neighbor Down: Interface down
+%OSPF-5-ADJCHG: Process 1, Nbr 10.0.0.2 on FastEthernet0/1 from DOWN to INIT, Neighbor Restarted
+%LINK-3-UPDOWN: Interface FastEthernet0/1, changed state to down
